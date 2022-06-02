@@ -12,34 +12,8 @@
         <!-- HEADER -->
         <div class="row">
             <div class="col-12">
-                <h1>HEADER</h1>
-                <P>Your tag line here</P>
+                <h1>SaCode</h1>
+                <P>LearnToCode #PapuansCoders</P>
             </div>
         </div>
         <!-- END HEADER -->
-
-
-        <!-- NAV -->
-        <!-- NAV -->
-        <div class="row bg-dark p-3">
-            <div class="col-12">
-
-                <ul class="nav nav-pills nav-fill">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Profile</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Gallery</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled">Contact</a>
-                    </li>
-                </ul>
-
-            </div>
-        </div>
-        <!-- END NAV -->
-        <!-- END NAV -->
